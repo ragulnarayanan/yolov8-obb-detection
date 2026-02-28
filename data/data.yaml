@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 39
+names: ['OBJ_001', 'OBJ_002', 'OBJ_003', 'OBJ_004', 'OBJ_005', 'OBJ_006', 'OBJ_007', 'OBJ_008', 'OBJ_009', 'OBJ_010', 'OBJ_012', 'OBJ_016', 'OBJ_018', 'OBJ_019', 'OBJ_021', 'OBJ_022', 'OBJ_027', 'OBJ_028', 'OBJ_029', 'OBJ_031', 'OBJ_061', 'OBJ_069', 'OBJ_090', 'OBJ_095', 'OBJ_107', 'OBJ_108', 'OBJ_111', 'OBJ_159', 'OBJ_208', 'OBJ_222', 'OBJ_229', 'OBJ_230', 'OBJ_300', 'OBJ_311', 'OBJ_405', 'OBJ_786', 'OBJ_787', 'OBJ_788', 'OBJ_789']
+
+roboflow:
+  workspace: nndl-4jgsy
+  project: object-dectection-0aozb
+  version: 2
+  license: Private
+  url: https://app.roboflow.com/nndl-4jgsy/object-dectection-0aozb/2
